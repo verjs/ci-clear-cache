@@ -1,2 +1,2 @@
 # ci-clear-cache
-CodeIgniter Clear Cache Test
+CodeIgniter Clear Cache
